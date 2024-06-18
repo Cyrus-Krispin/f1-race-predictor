@@ -31,3 +31,16 @@ for practice in practices:
         soup = BeautifulSoup(r, "lxml")
 
         data = soup.find("table", class_="resultsarchive-table").find("tbody").find_all("tr")
+        for row in data:
+            race_names.append(race.text.strip())
+            val = row.find_all("td")
+            pos.append(val[1].string)
+            driver_numbers.append(val[2].string)
+            names = val[3].find_all("span")
+            driver_names.append(names[0].string + " " + names[1].string)
+            driver_teams.append(val[4].string)
+            fastest_laps.append(val[5].string)
+            gaps.append(val[6].text.strip())
+            laps.append(val[7].string)
+
+    pd.DataFrame(data={"Race": race_names, "Pos": pos, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Fastest Lap": fastest_laps, "Gap": gaps, "Laps": laps}).to_csv(practice + "_details.csv", index=False, header=True)

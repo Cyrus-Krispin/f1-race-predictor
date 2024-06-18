@@ -13,18 +13,17 @@ soup = BeautifulSoup(r, "lxml")
 
 races = soup.find_all("a", class_="dark bold ArchiveLink")
 
-race_names = []
-pos = []
-driver_numbers = []
-driver_names = []
-driver_teams = []
-fastest_laps = []
-gaps = []
-laps = []
-
 practices = ["practice-1", "practice-2", "practice-3"]
 
 for practice in practices:
+    race_names = []
+    pos = []
+    driver_numbers = []
+    driver_names = []
+    driver_teams = []
+    fastest_laps = []
+    gaps = []
+    laps = []
     for race in races:
         url = race.get("href")
         r = requests.get("https://www.formula1.com" + url[:-16] + practice + ".html").text

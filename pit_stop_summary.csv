@@ -1,0 +1,313 @@
+Race,Stops,No,Name,Team,Lap,Time of Day,Pit Stop Time,Total Pit Stop Time
+Bahrain,1,27,Nico Hulkenberg,Haas Ferrari,1,18:05:33,36.604,36.604
+Bahrain,1,24,Zhou Guanyu,Kick Sauber Ferrari,9,18:18:39,25.208,25.208
+Bahrain,1,18,Lance Stroll,Aston Martin Aramco Mercedes,9,18:18:42,24.418,24.418
+Bahrain,1,31,Esteban Ocon,Alpine Renault,10,18:20:20,24.877,24.877
+Bahrain,1,2,Logan Sargeant,Williams Mercedes,10,18:21:19,35.729,35.729
+Bahrain,1,63,George Russell,Mercedes,11,18:21:38,24.778,24.778
+Bahrain,1,16,Charles Leclerc,Ferrari,11,18:21:41,24.069,24.069
+Bahrain,1,20,Kevin Magnussen,Haas Ferrari,11,18:21:55,25.951,25.951
+Bahrain,1,11,Sergio Perez,Red Bull Racing Honda RBPT,12,18:23:16,24.516,24.516
+Bahrain,1,81,Oscar Piastri,McLaren Mercedes,12,18:23:24,25.450,25.450
+Bahrain,1,44,Lewis Hamilton,Mercedes,12,18:23:26,25.087,25.087
+Bahrain,1,10,Pierre Gasly,Alpine Renault,12,18:23:38,29.980,29.980
+Bahrain,1,77,Valtteri Bottas,Kick Sauber Ferrari,12,18:23:42,26.420,26.420
+Bahrain,1,4,Lando Norris,McLaren Mercedes,13,18:25:00,24.205,24.205
+Bahrain,1,3,Daniel Ricciardo,RB Honda RBPT,13,18:25:17,24.988,24.988
+Bahrain,1,55,Carlos Sainz,Ferrari,14,18:26:32,24.474,24.474
+Bahrain,1,22,Yuki Tsunoda,RB Honda RBPT,14,18:26:47,24.724,24.724
+Bahrain,1,14,Fernando Alonso,Aston Martin Aramco Mercedes,15,18:28:24,24.786,24.786
+Bahrain,1,23,Alexander Albon,Williams Mercedes,15,18:28:29,24.681,24.681
+Bahrain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,17,18:31:12,25.064,25.064
+Bahrain,2,27,Nico Hulkenberg,Haas Ferrari,20,18:37:08,24.768,1:01.372
+Bahrain,2,18,Lance Stroll,Aston Martin Aramco Mercedes,27,18:48:25,24.545,48.963
+Bahrain,2,24,Zhou Guanyu,Kick Sauber Ferrari,28,18:49:59,25.094,50.302
+Bahrain,2,2,Logan Sargeant,Williams Mercedes,28,18:51:33,25.070,1:00.799
+Bahrain,2,31,Esteban Ocon,Alpine Renault,30,18:53:30,25.145,50.022
+Bahrain,2,77,Valtteri Bottas,Kick Sauber Ferrari,30,18:53:32,1:14.773,1:41.193
+Bahrain,2,63,George Russell,Mercedes,31,18:54:21,24.866,49.644
+Bahrain,2,10,Pierre Gasly,Alpine Renault,31,18:55:10,26.462,56.442
+Bahrain,2,20,Kevin Magnussen,Haas Ferrari,32,18:56:37,24.446,50.397
+Bahrain,2,4,Lando Norris,McLaren Mercedes,33,18:57:39,24.705,48.910
+Bahrain,2,44,Lewis Hamilton,Mercedes,33,18:57:45,24.094,49.181
+Bahrain,2,16,Charles Leclerc,Ferrari,34,18:59:13,24.136,48.205
+Bahrain,2,81,Oscar Piastri,McLaren Mercedes,34,18:59:20,24.852,50.302
+Bahrain,2,22,Yuki Tsunoda,RB Honda RBPT,34,18:59:47,24.324,49.048
+Bahrain,2,55,Carlos Sainz,Ferrari,35,19:00:38,23.866,48.340
+Bahrain,2,3,Daniel Ricciardo,RB Honda RBPT,35,19:01:34,24.856,49.844
+Bahrain,2,11,Sergio Perez,Red Bull Racing Honda RBPT,36,19:02:12,24.563,49.079
+Bahrain,2,23,Alexander Albon,Williams Mercedes,36,19:03:09,24.610,49.291
+Bahrain,2,1,Max Verstappen,Red Bull Racing Honda RBPT,37,19:03:29,24.209,49.273
+Bahrain,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,41,19:10:58,25.109,49.895
+Bahrain,3,2,Logan Sargeant,Williams Mercedes,40,19:11:22,25.346,1:26.145
+Bahrain,3,27,Nico Hulkenberg,Haas Ferrari,41,19:11:29,24.387,1:25.759
+Bahrain,3,10,Pierre Gasly,Alpine Renault,43,19:14:55,25.240,1:21.682
+Saudi Arabia,1,1,Max Verstappen,Red Bull Racing Honda RBPT,7,20:15:25,20.607,20.607
+Saudi Arabia,1,11,Sergio Perez,Red Bull Racing Honda RBPT,7,20:15:30,22.196,22.196
+Saudi Arabia,1,16,Charles Leclerc,Ferrari,7,20:15:31,23.419,23.419
+Saudi Arabia,1,81,Oscar Piastri,McLaren Mercedes,7,20:15:36,21.427,21.427
+Saudi Arabia,1,14,Fernando Alonso,Aston Martin Aramco Mercedes,7,20:15:37,22.129,22.129
+Saudi Arabia,1,63,George Russell,Mercedes,7,20:15:42,21.013,21.013
+Saudi Arabia,1,38,Oliver Bearman,Ferrari,7,20:15:51,22.457,22.457
+Saudi Arabia,1,22,Yuki Tsunoda,RB Honda RBPT,7,20:15:51,21.694,21.694
+Saudi Arabia,1,20,Kevin Magnussen,Haas Ferrari,7,20:15:53,21.460,21.460
+Saudi Arabia,1,23,Alexander Albon,Williams Mercedes,7,20:15:53,21.723,21.723
+Saudi Arabia,1,3,Daniel Ricciardo,RB Honda RBPT,7,20:15:57,1:03.364,1:03.364
+Saudi Arabia,1,31,Esteban Ocon,Alpine Renault,7,20:15:59,22.502,22.502
+Saudi Arabia,1,77,Valtteri Bottas,Kick Sauber Ferrari,7,20:16:00,22.795,22.795
+Saudi Arabia,1,2,Logan Sargeant,Williams Mercedes,7,20:16:01,23.645,23.645
+Saudi Arabia,1,27,Nico Hulkenberg,Haas Ferrari,33,20:59:21,21.035,21.035
+Saudi Arabia,2,77,Valtteri Bottas,Kick Sauber Ferrari,35,21:02:58,23.281,46.076
+Saudi Arabia,1,44,Lewis Hamilton,Mercedes,36,21:03:38,20.170,20.170
+Saudi Arabia,1,4,Lando Norris,McLaren Mercedes,37,21:05:08,22.211,22.211
+Saudi Arabia,1,24,Zhou Guanyu,Kick Sauber Ferrari,41,21:12:03,46.381,46.381
+Australia,1,3,Daniel Ricciardo,RB Honda RBPT,5,15:10:25,18.265,18.265
+Australia,1,23,Alexander Albon,Williams Mercedes,6,15:11:45,17.755,17.755
+Australia,1,24,Zhou Guanyu,Kick Sauber Ferrari,6,15:11:49,19.032,19.032
+Australia,1,44,Lewis Hamilton,Mercedes,7,15:13:04,17.596,17.596
+Australia,1,20,Kevin Magnussen,Haas Ferrari,7,15:13:08,18.301,18.301
+Australia,1,63,George Russell,Mercedes,8,15:14:23,18.046,18.046
+Australia,1,18,Lance Stroll,Aston Martin Aramco Mercedes,8,15:14:26,17.901,17.901
+Australia,1,77,Valtteri Bottas,Kick Sauber Ferrari,8,15:14:30,46.969,46.969
+Australia,1,16,Charles Leclerc,Ferrari,9,15:15:42,17.409,17.409
+Australia,1,81,Oscar Piastri,McLaren Mercedes,9,15:15:43,17.573,17.573
+Australia,1,22,Yuki Tsunoda,RB Honda RBPT,9,15:15:50,18.523,18.523
+Australia,1,31,Esteban Ocon,Alpine Renault,9,15:15:55,18.287,18.287
+Australia,1,4,Lando Norris,McLaren Mercedes,14,15:22:37,17.776,17.776
+Australia,1,11,Sergio Perez,Red Bull Racing Honda RBPT,14,15:22:45,18.112,18.112
+Australia,1,55,Carlos Sainz,Ferrari,16,15:25:14,17.599,17.599
+Australia,2,31,Esteban Ocon,Alpine Renault,16,15:25:58,30.626,48.913
+Australia,1,14,Fernando Alonso,Aston Martin Aramco Mercedes,17,15:27:06,18.160,18.160
+Australia,1,27,Nico Hulkenberg,Haas Ferrari,17,15:27:28,18.320,18.320
+Australia,1,10,Pierre Gasly,Alpine Renault,17,15:27:32,20.316,20.316
+Australia,2,23,Alexander Albon,Williams Mercedes,27,15:41:35,17.745,35.500
+Australia,2,3,Daniel Ricciardo,RB Honda RBPT,29,15:44:29,17.751,36.016
+Australia,2,20,Kevin Magnussen,Haas Ferrari,33,15:49:58,18.151,36.452
+Australia,2,16,Charles Leclerc,Ferrari,34,15:50:35,17.308,34.717
+Australia,2,11,Sergio Perez,Red Bull Racing Honda RBPT,35,15:52:18,17.222,35.334
+Australia,2,27,Nico Hulkenberg,Haas Ferrari,35,15:52:40,18.145,36.465
+Australia,2,24,Zhou Guanyu,Kick Sauber Ferrari,35,15:52:50,36.866,55.898
+Australia,2,22,Yuki Tsunoda,RB Honda RBPT,36,15:53:59,17.535,36.058
+Australia,2,77,Valtteri Bottas,Kick Sauber Ferrari,36,15:54:30,18.938,1:05.907
+Australia,2,18,Lance Stroll,Aston Martin Aramco Mercedes,37,15:55:19,17.977,35.878
+Australia,2,81,Oscar Piastri,McLaren Mercedes,39,15:57:32,18.533,36.106
+Australia,2,4,Lando Norris,McLaren Mercedes,40,15:58:46,17.653,35.429
+Australia,2,55,Carlos Sainz,Ferrari,41,15:59:57,17.740,35.339
+Australia,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,41,16:00:37,17.995,36.155
+Australia,2,10,Pierre Gasly,Alpine Renault,41,16:01:21,17.682,37.998
+Australia,3,31,Esteban Ocon,Alpine Renault,42,16:02:51,18.007,1:06.920
+Australia,2,63,George Russell,Mercedes,45,16:06:07,17.964,36.010
+Japan,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,14:05:50,26:15.603,26:15.603
+Japan,1,11,Sergio Perez,Red Bull Racing Honda RBPT,1,14:05:52,26:17.661,26:17.661
+Japan,1,4,Lando Norris,McLaren Mercedes,1,14:05:54,26:20.116,26:20.116
+Japan,1,55,Carlos Sainz,Ferrari,1,14:05:57,26:20.097,26:20.097
+Japan,1,14,Fernando Alonso,Aston Martin Aramco Mercedes,1,14:06:00,26:20.924,26:20.924
+Japan,1,81,Oscar Piastri,McLaren Mercedes,1,14:06:03,26:20.204,26:20.204
+Japan,1,44,Lewis Hamilton,Mercedes,1,14:06:12,26:20.696,26:20.696
+Japan,1,16,Charles Leclerc,Ferrari,1,14:06:13,26:23.333,26:23.333
+Japan,1,63,George Russell,Mercedes,1,14:06:18,26:21.238,26:21.238
+Japan,1,27,Nico Hulkenberg,Haas Ferrari,1,14:06:21,26:20.886,26:20.886
+Japan,1,77,Valtteri Bottas,Kick Sauber Ferrari,1,14:06:22,26:22.542,26:22.542
+Japan,1,22,Yuki Tsunoda,RB Honda RBPT,1,14:06:25,26:24.553,26:24.553
+Japan,1,31,Esteban Ocon,Alpine Renault,1,14:06:28,26:26.095,26:26.095
+Japan,1,10,Pierre Gasly,Alpine Renault,1,14:06:30,26:26.793,26:26.793
+Japan,1,18,Lance Stroll,Aston Martin Aramco Mercedes,1,14:06:35,26:25.911,26:25.911
+Japan,1,20,Kevin Magnussen,Haas Ferrari,1,14:06:40,26:24.630,26:24.630
+Japan,1,2,Logan Sargeant,Williams Mercedes,1,14:06:43,26:25.267,26:25.267
+Japan,1,24,Zhou Guanyu,Kick Sauber Ferrari,1,14:06:50,26:22.912,26:22.912
+Japan,2,27,Nico Hulkenberg,Haas Ferrari,5,14:40:46,23.622,26:44.508
+Japan,2,77,Valtteri Bottas,Kick Sauber Ferrari,6,14:42:21,24.824,26:47.366
+Japan,2,22,Yuki Tsunoda,RB Honda RBPT,7,14:43:59,23.358,26:47.911
+Japan,2,24,Zhou Guanyu,Kick Sauber Ferrari,7,14:44:07,23.910,26:46.822
+Japan,2,4,Lando Norris,McLaren Mercedes,11,14:50:21,23.049,26:43.165
+Japan,3,24,Zhou Guanyu,Kick Sauber Ferrari,11,14:51:01,26.653,27:13.475
+Japan,2,81,Oscar Piastri,McLaren Mercedes,12,14:52:06,23.420,26:43.624
+Japan,2,18,Lance Stroll,Aston Martin Aramco Mercedes,12,14:52:17,23.358,26:49.269
+Japan,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,13,14:53:43,22.998,26:43.922
+Japan,2,11,Sergio Perez,Red Bull Racing Honda RBPT,15,14:56:51,22.990,26:40.651
+Japan,2,55,Carlos Sainz,Ferrari,15,14:56:55,23.136,26:43.233
+Japan,2,1,Max Verstappen,Red Bull Racing Honda RBPT,16,14:58:23,23.177,26:38.780
+Japan,2,10,Pierre Gasly,Alpine Renault,16,14:59:18,23.844,26:50.637
+Japan,2,31,Esteban Ocon,Alpine Renault,19,15:04:11,23.394,26:49.489
+Japan,2,63,George Russell,Mercedes,22,15:08:39,23.577,26:44.815
+Japan,2,20,Kevin Magnussen,Haas Ferrari,22,15:09:03,26.198,26:50.828
+Japan,3,77,Valtteri Bottas,Kick Sauber Ferrari,22,15:09:04,25.946,27:13.312
+Japan,2,2,Logan Sargeant,Williams Mercedes,22,15:09:04,25.530,26:50.797
+Japan,3,22,Yuki Tsunoda,RB Honda RBPT,22,15:09:05,23.486,27:11.397
+Japan,3,18,Lance Stroll,Aston Martin Aramco Mercedes,22,15:09:06,23.238,27:12.507
+Japan,2,44,Lewis Hamilton,Mercedes,23,15:10:21,23.333,26:44.029
+Japan,2,16,Charles Leclerc,Ferrari,26,15:15:01,23.285,26:46.618
+Japan,3,4,Lando Norris,McLaren Mercedes,26,15:15:02,23.232,27:06.397
+Japan,3,81,Oscar Piastri,McLaren Mercedes,32,15:25:00,22.848,27:06.472
+Japan,3,10,Pierre Gasly,Alpine Renault,32,15:26:03,23.102,27:13.739
+Japan,3,11,Sergio Perez,Red Bull Racing Honda RBPT,33,15:26:18,22.956,27:03.607
+Japan,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,33,15:26:33,23.157,27:07.079
+Japan,3,27,Nico Hulkenberg,Haas Ferrari,33,15:27:22,23.993,27:08.501
+Japan,3,31,Esteban Ocon,Alpine Renault,33,15:27:33,24.181,27:13.670
+Japan,3,1,Max Verstappen,Red Bull Racing Honda RBPT,34,15:27:43,23.234,27:02.014
+Japan,4,18,Lance Stroll,Aston Martin Aramco Mercedes,34,15:28:58,22.911,27:35.418
+Japan,3,2,Logan Sargeant,Williams Mercedes,34,15:29:04,24.220,27:15.017
+Japan,3,55,Carlos Sainz,Ferrari,36,15:31:14,23.591,27:06.824
+Japan,3,63,George Russell,Mercedes,37,15:33:07,22.991,27:07.806
+Japan,3,44,Lewis Hamilton,Mercedes,39,15:36:25,23.956,27:07.985
+Japan,4,2,Logan Sargeant,Williams Mercedes,41,15:41:24,23.287,27:38.304
+China,1,27,Nico Hulkenberg,Haas Ferrari,8,15:17:30,23.004,23.004
+China,1,22,Yuki Tsunoda,RB Honda RBPT,8,15:17:35,23.160,23.160
+China,1,24,Zhou Guanyu,Kick Sauber Ferrari,8,15:17:39,23.362,23.362
+China,1,18,Lance Stroll,Aston Martin Aramco Mercedes,9,15:19:10,23.823,23.823
+China,1,77,Valtteri Bottas,Kick Sauber Ferrari,9,15:19:12,22.949,22.949
+China,1,31,Esteban Ocon,Alpine Renault,9,15:19:14,23.156,23.156
+China,1,23,Alexander Albon,Williams Mercedes,9,15:19:15,23.273,23.273
+China,1,44,Lewis Hamilton,Mercedes,9,15:19:19,22.518,22.518
+China,1,14,Fernando Alonso,Aston Martin Aramco Mercedes,11,15:22:28,23.049,23.049
+China,1,63,George Russell,Mercedes,11,15:22:32,22.415,22.415
+China,1,10,Pierre Gasly,Alpine Renault,11,15:22:43,39.712,39.712
+China,1,2,Logan Sargeant,Williams Mercedes,12,15:24:34,23.229,23.229
+China,1,1,Max Verstappen,Red Bull Racing Honda RBPT,13,15:25:33,22.456,22.456
+China,1,11,Sergio Perez,Red Bull Racing Honda RBPT,13,15:25:43,22.027,22.027
+China,1,3,Daniel Ricciardo,RB Honda RBPT,14,15:27:53,22.598,22.598
+China,1,81,Oscar Piastri,McLaren Mercedes,16,15:31:03,22.673,22.673
+China,1,55,Carlos Sainz,Ferrari,17,15:32:49,22.629,22.629
+China,1,20,Kevin Magnussen,Haas Ferrari,17,15:33:13,22.974,22.974
+China,1,16,Charles Leclerc,Ferrari,21,15:39:34,22.360,22.360
+China,2,18,Lance Stroll,Aston Martin Aramco Mercedes,21,15:40:07,22.911,46.734
+China,2,44,Lewis Hamilton,Mercedes,21,15:40:23,22.662,45.180
+China,1,4,Lando Norris,McLaren Mercedes,22,15:41:37,22.161,22.161
+China,2,1,Max Verstappen,Red Bull Racing Honda RBPT,23,15:43:44,22.270,44.726
+China,2,11,Sergio Perez,Red Bull Racing Honda RBPT,23,15:44:03,22.371,44.398
+China,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,23,15:44:21,22.687,45.736
+China,2,63,George Russell,Mercedes,23,15:44:25,22.707,45.122
+China,2,27,Nico Hulkenberg,Haas Ferrari,23,15:44:41,23.336,46.340
+China,2,31,Esteban Ocon,Alpine Renault,23,15:44:48,23.208,46.364
+China,2,22,Yuki Tsunoda,RB Honda RBPT,23,15:44:54,22.387,45.547
+China,2,23,Alexander Albon,Williams Mercedes,23,15:44:57,23.600,46.873
+China,2,24,Zhou Guanyu,Kick Sauber Ferrari,23,15:45:02,25.610,48.972
+China,2,10,Pierre Gasly,Alpine Renault,23,15:45:12,23.987,1:03.699
+China,2,81,Oscar Piastri,McLaren Mercedes,24,15:46:41,22.262,44.935
+China,2,2,Logan Sargeant,Williams Mercedes,24,15:47:14,22.684,45.913
+China,3,18,Lance Stroll,Aston Martin Aramco Mercedes,26,15:51:46,1:33.274,2:20.008
+China,2,20,Kevin Magnussen,Haas Ferrari,27,15:54:22,25.727,48.701
+China,4,18,Lance Stroll,Aston Martin Aramco Mercedes,35,16:10:09,34.777,2:54.785
+China,3,10,Pierre Gasly,Alpine Renault,38,16:15:11,22.836,1:26.535
+China,3,24,Zhou Guanyu,Kick Sauber Ferrari,40,16:18:35,23.252,1:12.224
+China,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,43,16:23:18,23.179,1:08.915
+Miami,1,23,Alexander Albon,Williams Mercedes,10,16:19:16,22.828,22.828
+Miami,1,18,Lance Stroll,Aston Martin Aramco Mercedes,11,16:20:48,23.038,23.038
+Miami,1,2,Logan Sargeant,Williams Mercedes,11,16:20:52,22.611,22.611
+Miami,1,77,Valtteri Bottas,Kick Sauber Ferrari,11,16:20:55,23.730,23.730
+Miami,1,27,Nico Hulkenberg,Haas Ferrari,12,16:22:21,23.055,23.055
+Miami,1,10,Pierre Gasly,Alpine Renault,12,16:22:22,22.466,22.466
+Miami,1,11,Sergio Perez,Red Bull Racing Honda RBPT,17,16:29:57,21.695,21.695
+Miami,1,16,Charles Leclerc,Ferrari,19,16:32:56,21.825,21.825
+Miami,1,31,Esteban Ocon,Alpine Renault,22,16:38:08,22.663,22.663
+Miami,1,14,Fernando Alonso,Aston Martin Aramco Mercedes,22,16:38:11,22.374,22.374
+Miami,1,20,Kevin Magnussen,Haas Ferrari,22,16:38:18,23.265,23.265
+Miami,1,1,Max Verstappen,Red Bull Racing Honda RBPT,23,16:39:17,22.187,22.187
+Miami,1,63,George Russell,Mercedes,24,16:41:18,22.800,22.800
+Miami,1,44,Lewis Hamilton,Mercedes,26,16:44:23,22.107,22.107
+Miami,1,81,Oscar Piastri,McLaren Mercedes,27,16:45:31,22.216,22.216
+Miami,1,55,Carlos Sainz,Ferrari,27,16:45:33,22.805,22.805
+Miami,2,11,Sergio Perez,Red Bull Racing Honda RBPT,28,16:47:40,22.396,44.091
+Miami,1,22,Yuki Tsunoda,RB Honda RBPT,28,16:47:44,22.153,22.153
+Miami,1,24,Zhou Guanyu,Kick Sauber Ferrari,28,16:48:01,23.017,23.017
+Miami,1,3,Daniel Ricciardo,RB Honda RBPT,28,16:48:05,22.540,22.540
+Miami,2,27,Nico Hulkenberg,Haas Ferrari,28,16:48:13,22.487,45.542
+Miami,2,18,Lance Stroll,Aston Martin Aramco Mercedes,28,16:48:15,22.631,45.669
+Miami,2,20,Kevin Magnussen,Haas Ferrari,28,16:48:47,29.727,52.992
+Miami,1,4,Lando Norris,McLaren Mercedes,29,16:49:15,22.041,22.041
+Miami,2,77,Valtteri Bottas,Kick Sauber Ferrari,29,16:50:34,22.765,46.495
+Miami,3,20,Kevin Magnussen,Haas Ferrari,31,16:54:36,30.732,1:23.724
+Miami,2,81,Oscar Piastri,McLaren Mercedes,40,17:08:34,30.409,52.625
+Miami,2,23,Alexander Albon,Williams Mercedes,53,17:29:03,22.567,45.395
+Emilia Romagna,1,14,Fernando Alonso,Aston Martin Aramco Mercedes,7,15:13:08,31.368,31.368
+Emilia Romagna,1,23,Alexander Albon,Williams Mercedes,8,15:14:25,30.050,30.050
+Emilia Romagna,1,10,Pierre Gasly,Alpine Renault,8,15:14:26,30.081,30.081
+Emilia Romagna,1,77,Valtteri Bottas,Kick Sauber Ferrari,8,15:14:28,30.240,30.240
+Emilia Romagna,2,23,Alexander Albon,Williams Mercedes,9,15:17:08,33.179,1:03.229
+Emilia Romagna,1,3,Daniel Ricciardo,RB Honda RBPT,11,15:18:29,30.068,30.068
+Emilia Romagna,1,22,Yuki Tsunoda,RB Honda RBPT,12,15:19:49,29.628,29.628
+Emilia Romagna,1,27,Nico Hulkenberg,Haas Ferrari,13,15:21:11,29.749,29.749
+Emilia Romagna,1,63,George Russell,Mercedes,21,15:31:57,29.664,29.664
+Emilia Romagna,1,4,Lando Norris,McLaren Mercedes,22,15:33:08,29.956,29.956
+Emilia Romagna,1,81,Oscar Piastri,McLaren Mercedes,23,15:34:37,29.770,29.770
+Emilia Romagna,1,1,Max Verstappen,Red Bull Racing Honda RBPT,24,15:35:46,30.416,30.416
+Emilia Romagna,3,23,Alexander Albon,Williams Mercedes,23,15:36:52,38.413,1:41.642
+Emilia Romagna,1,16,Charles Leclerc,Ferrari,25,15:37:15,30.149,30.149
+Emilia Romagna,1,31,Esteban Ocon,Alpine Renault,25,15:37:56,30.659,30.659
+Emilia Romagna,1,55,Carlos Sainz,Ferrari,27,15:40:03,30.508,30.508
+Emilia Romagna,1,44,Lewis Hamilton,Mercedes,27,15:40:14,29.547,29.547
+Emilia Romagna,4,23,Alexander Albon,Williams Mercedes,28,15:44:25,31.131,2:12.773
+Emilia Romagna,2,10,Pierre Gasly,Alpine Renault,30,15:45:06,30.654,1:00.735
+Emilia Romagna,1,2,Logan Sargeant,Williams Mercedes,31,15:46:28,31.085,31.085
+Emilia Romagna,1,24,Zhou Guanyu,Kick Sauber Ferrari,33,15:49:09,30.244,30.244
+Emilia Romagna,1,11,Sergio Perez,Red Bull Racing Honda RBPT,37,15:54:16,29.669,29.669
+Emilia Romagna,1,18,Lance Stroll,Aston Martin Aramco Mercedes,37,15:54:22,29.971,29.971
+Emilia Romagna,1,20,Kevin Magnussen,Haas Ferrari,37,15:54:36,31.302,31.302
+Emilia Romagna,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,40,15:59:03,30.483,1:01.851
+Emilia Romagna,2,63,George Russell,Mercedes,52,16:14:22,29.605,59.269
+Emilia Romagna,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,59,16:25:23,29.931,1:31.782
+Monaco,1,16,Charles Leclerc,Ferrari,1,15:04:50,39:18.026,39:18.026
+Monaco,1,81,Oscar Piastri,McLaren Mercedes,1,15:04:52,39:17.645,39:17.645
+Monaco,1,4,Lando Norris,McLaren Mercedes,1,15:04:54,39:25.538,39:25.538
+Monaco,1,63,George Russell,Mercedes,1,15:04:56,39:29.363,39:29.363
+Monaco,1,1,Max Verstappen,Red Bull Racing Honda RBPT,1,15:04:57,39:32.670,39:32.670
+Monaco,1,44,Lewis Hamilton,Mercedes,1,15:05:00,39:35.369,39:35.369
+Monaco,1,22,Yuki Tsunoda,RB Honda RBPT,1,15:05:02,39:37.564,39:37.564
+Monaco,1,23,Alexander Albon,Williams Mercedes,1,15:05:05,39:41.390,39:41.390
+Monaco,1,10,Pierre Gasly,Alpine Renault,1,15:05:07,39:41.893,39:41.893
+Monaco,1,18,Lance Stroll,Aston Martin Aramco Mercedes,1,15:05:10,39:43.588,39:43.588
+Monaco,1,3,Daniel Ricciardo,RB Honda RBPT,1,15:05:13,39:45.823,39:45.823
+Monaco,1,14,Fernando Alonso,Aston Martin Aramco Mercedes,1,15:05:15,39:49.467,39:49.467
+Monaco,1,2,Logan Sargeant,Williams Mercedes,1,15:05:16,39:51.600,39:51.600
+Monaco,1,77,Valtteri Bottas,Kick Sauber Ferrari,1,15:05:19,39:54.053,39:54.053
+Monaco,1,55,Carlos Sainz,Ferrari,1,15:05:27,38:47.072,38:47.072
+Monaco,1,24,Zhou Guanyu,Kick Sauber Ferrari,1,15:05:31,39:46.414,39:46.414
+Monaco,2,77,Valtteri Bottas,Kick Sauber Ferrari,15,16:04:57,24.239,40:18.292
+Monaco,2,18,Lance Stroll,Aston Martin Aramco Mercedes,42,16:41:05,24.132,40:07.720
+Monaco,3,18,Lance Stroll,Aston Martin Aramco Mercedes,48,16:49:27,28.211,40:35.931
+Monaco,2,44,Lewis Hamilton,Mercedes,51,16:52:10,24.232,39:59.601
+Monaco,2,1,Max Verstappen,Red Bull Racing Honda RBPT,52,16:53:26,23.813,39:56.483
+Monaco,2,2,Logan Sargeant,Williams Mercedes,57,17:01:43,24.384,40:15.984
+Monaco,2,24,Zhou Guanyu,Kick Sauber Ferrari,70,17:19:04,24.367,40:10.781
+Canada,1,20,Kevin Magnussen,Haas Ferrari,7,14:14:25,30.472,30.472
+Canada,1,27,Nico Hulkenberg,Haas Ferrari,12,14:22:33,24.233,24.233
+Canada,1,24,Zhou Guanyu,Kick Sauber Ferrari,24,14:40:42,25.598,25.598
+Canada,1,63,George Russell,Mercedes,25,14:40:52,24.044,24.044
+Canada,1,1,Max Verstappen,Red Bull Racing Honda RBPT,25,14:40:52,24.306,24.306
+Canada,1,81,Oscar Piastri,McLaren Mercedes,25,14:40:53,23.977,23.977
+Canada,1,14,Fernando Alonso,Aston Martin Aramco Mercedes,25,14:41:12,25.788,25.788
+Canada,1,44,Lewis Hamilton,Mercedes,25,14:41:13,23.762,23.762
+Canada,1,18,Lance Stroll,Aston Martin Aramco Mercedes,25,14:41:47,24.284,24.284
+Canada,1,23,Alexander Albon,Williams Mercedes,25,14:41:54,24.753,24.753
+Canada,1,16,Charles Leclerc,Ferrari,25,14:41:58,24.031,24.031
+Canada,1,55,Carlos Sainz,Ferrari,25,14:42:01,27.626,27.626
+Canada,2,20,Kevin Magnussen,Haas Ferrari,25,14:42:03,26.794,57.266
+Canada,1,10,Pierre Gasly,Alpine Renault,25,14:42:06,24.911,24.911
+Canada,1,11,Sergio Perez,Red Bull Racing Honda RBPT,25,14:42:09,33.762,33.762
+Canada,2,27,Nico Hulkenberg,Haas Ferrari,25,14:42:21,24.668,48.901
+Canada,1,4,Lando Norris,McLaren Mercedes,26,14:42:44,23.423,23.423
+Canada,1,3,Daniel Ricciardo,RB Honda RBPT,26,14:43:37,30.298,30.298
+Canada,2,16,Charles Leclerc,Ferrari,28,14:47:31,47.186,1:11.217
+Canada,3,16,Charles Leclerc,Ferrari,31,14:53:31,24.629,1:35.846
+Canada,2,10,Pierre Gasly,Alpine Renault,40,15:05:55,24.408,49.319
+Canada,3,20,Kevin Magnussen,Haas Ferrari,41,15:07:24,24.833,1:22.099
+Canada,1,77,Valtteri Bottas,Kick Sauber Ferrari,42,15:08:45,24.929,24.929
+Canada,2,44,Lewis Hamilton,Mercedes,43,15:09:46,24.226,47.988
+Canada,2,3,Daniel Ricciardo,RB Honda RBPT,43,15:10:10,23.860,54.158
+Canada,2,55,Carlos Sainz,Ferrari,43,15:10:12,24.125,51.751
+Canada,2,11,Sergio Perez,Red Bull Racing Honda RBPT,43,15:10:12,24.423,58.185
+Canada,2,81,Oscar Piastri,McLaren Mercedes,44,15:11:10,23.476,47.453
+Canada,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,44,15:11:23,24.346,50.134
+Canada,1,22,Yuki Tsunoda,RB Honda RBPT,44,15:11:26,25.569,25.569
+Canada,2,18,Lance Stroll,Aston Martin Aramco Mercedes,44,15:11:30,25.025,49.309
+Canada,1,31,Esteban Ocon,Alpine Renault,44,15:11:32,24.495,24.495
+Canada,2,23,Alexander Albon,Williams Mercedes,44,15:11:34,24.804,49.557
+Canada,3,27,Nico Hulkenberg,Haas Ferrari,44,15:11:43,24.751,1:13.652
+Canada,2,24,Zhou Guanyu,Kick Sauber Ferrari,44,15:11:53,1:05.564,1:31.162
+Canada,2,1,Max Verstappen,Red Bull Racing Honda RBPT,45,15:12:29,24.246,48.552
+Canada,2,63,George Russell,Mercedes,45,15:12:31,25.431,49.475
+Canada,2,4,Lando Norris,McLaren Mercedes,47,15:15:19,23.983,47.406
+Canada,3,24,Zhou Guanyu,Kick Sauber Ferrari,52,15:25:02,28.375,1:59.537
+Canada,3,63,George Russell,Mercedes,54,15:25:19,28.157,1:17.632
+Canada,3,44,Lewis Hamilton,Mercedes,54,15:25:24,28.817,1:16.805
+Canada,4,20,Kevin Magnussen,Haas Ferrari,54,15:26:25,26.845,1:48.944

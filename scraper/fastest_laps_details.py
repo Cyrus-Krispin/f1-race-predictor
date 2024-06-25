@@ -44,4 +44,4 @@ for race in races:
         fastest_times.append(val[7].string)
         average_speeds.append(val[8].string)
 
-pd.DataFrame(data={"Race": race_names, "Pos": pos, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Laps": laps, "Time of Day": time_of_days, "Fastest Time": fastest_times, "Average Speed": average_speeds}).to_csv("fastest_laps_details.csv", index=False, header=True)
+pd.DataFrame(data={"Race": race_names, "Fastest Order": pos, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Laps": laps, "Time of Day": time_of_days, "Fastest Time": fastest_times, "Average Speed": average_speeds}).to_csv("fastest_laps_details.csv", index=False, header=True)

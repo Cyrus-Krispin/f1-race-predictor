@@ -40,5 +40,5 @@ for race in races:
         total_time.append(val[6].text)
         points.append(val[7].string)
 
-pd.DataFrame(data={"Race": race_names, "Pos": pos, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Laps": laps, "Time": total_time, "Points": points}).to_csv("race_details.csv", index=False, header=True)
+pd.DataFrame(data={"Race": race_names, "Pos": pos, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Race Laps": laps, "Time": total_time, "Points": points}).to_csv("race_details.csv", index=False, header=True)
 

@@ -1,4 +1,4 @@
-Name,No,Flag,Team,Country,Podiums,Points,Total GPs,World Championships,Highest Race Finish,Highest Grid Position,Date of Birth,Place of Birth
+Name,No,Flag,Short Team Name,Country,Podiums,Total Points,Total GPs,World Championships,Highest Race Finish,Highest Grid Position,Date of Birth,Place of Birth
 Max Verstappen,1,https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/netherlands-flag.png,Red Bull Racing,Netherlands,106,2805.5,195,3,1 (x61),1,30/09/1997,"Hasselt, Belgium"
 Lando Norris,4,https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/united-kingdom-flag.png,McLaren,United Kingdom,19,783,114,0,1 (x1),1,13/11/1999,"Bristol, England"
 Charles Leclerc,16,https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Flags%2016x9/monaco-flag.png,Ferrari,Monaco,35,1222,135,0,1 (x6),1,16/10/1997,"Monte Carlo, Monaco"

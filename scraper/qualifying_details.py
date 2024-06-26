@@ -45,4 +45,4 @@ for race in races:
         laps.append(val[8].string)
 
 
-pd.DataFrame(data={"Race": race_names, "Pos": positions, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Q1": q1_times, "Q2": q2_times, "Q3": q3_times, "Laps": laps}).to_csv("qualifying_details.csv", index=False, header=True)
+pd.DataFrame(data={"Race": race_names, "Qualifying Pos": positions, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Q1": q1_times, "Q2": q2_times, "Q3": q3_times, "Qualifying Laps": laps}).to_csv("qualifying_details.csv", index=False, header=True)

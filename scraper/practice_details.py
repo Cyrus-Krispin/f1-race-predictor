@@ -42,4 +42,4 @@ for practice in practices:
             gaps.append(val[6].text.strip())
             laps.append(val[7].string)
 
-    pd.DataFrame(data={"Race": race_names, "Pos": pos, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Fastest Lap": fastest_laps, "Gap": gaps, "Laps": laps}).to_csv(practice + "_details.csv", index=False, header=True)
+    pd.DataFrame(data={"Race": race_names, practice + " Pos": pos, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, practice + " Fastest Lap": fastest_laps, practice + " Gap": gaps, practice + " Laps": laps}).to_csv(practice + "_details.csv", index=False, header=True)

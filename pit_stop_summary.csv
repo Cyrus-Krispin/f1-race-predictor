@@ -1,4 +1,4 @@
-Race,Stops,No,Name,Team,Lap,Time of Day,Pit Stop Time,Total Pit Stop Time
+Race,Stops,No,Name,Team,Pit Stop Lap,Time of Day,Pit Stop Time,Total Pit Stop Time
 Bahrain,1,27,Nico Hulkenberg,Haas Ferrari,1,18:05:33,36.604,36.604
 Bahrain,1,24,Zhou Guanyu,Kick Sauber Ferrari,9,18:18:39,25.208,25.208
 Bahrain,1,18,Lance Stroll,Aston Martin Aramco Mercedes,9,18:18:42,24.418,24.418

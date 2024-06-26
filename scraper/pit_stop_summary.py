@@ -43,4 +43,4 @@ for race in races:
             pit_stop_times.append(val[7].string)
             total_pit_stop_times.append(val[8].string)
         
-pd.DataFrame(data={"Race": race_names, "Stops": stops, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Lap": lap, "Time of Day": time_of_days, "Pit Stop Time": pit_stop_times, "Total Pit Stop Time": total_pit_stop_times}).to_csv("pit_stop_summary.csv", index=False, header=True)
+pd.DataFrame(data={"Race": race_names, "Stops": stops, "No": driver_numbers, "Name": driver_names, "Team": driver_teams, "Pit Stop Lap": lap, "Time of Day": time_of_days, "Pit Stop Time": pit_stop_times, "Total Pit Stop Time": total_pit_stop_times}).to_csv("pit_stop_summary.csv", index=False, header=True)

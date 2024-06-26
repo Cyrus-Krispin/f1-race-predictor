@@ -48,5 +48,5 @@ for team_link in team_links:
     team_pole_positions.append(data[9].string)
     team_fastest_laps.append(data[10].string)
 
-pd.DataFrame(data={"Name": team_names, "Full Name": team_full_names, "Base": team_bases, "Chief": team_chiefs, "Technical Chief": team_technical_chiefs, "Chassis": team_chassis, "Power Unit": team_power_units, "First Season": team_first_seasons, "World Championships": team_world_championships, "Highest Race Finish": team_highest_race_finishes, "Pole Positions": team_pole_positions, "Fastest Laps": team_fastest_laps}).to_csv("team_details.csv", index=False, header=True)
+pd.DataFrame(data={"Short Team Name": team_names, "Full Name": team_full_names, "Base": team_bases, "Chief": team_chiefs, "Technical Chief": team_technical_chiefs, "Chassis": team_chassis, "Power Unit": team_power_units, "First Season": team_first_seasons, "World Championships": team_world_championships, "Highest Race Finish": team_highest_race_finishes, "Pole Positions": team_pole_positions, "Fastest Laps": team_fastest_laps}).to_csv("team_details.csv", index=False, header=True)
 

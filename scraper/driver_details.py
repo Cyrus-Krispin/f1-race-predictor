@@ -8,7 +8,8 @@ url = "https://www.formula1.com/en/drivers"
 r = requests.get(url).text
 soup = BeautifulSoup(r, "lxml")
 
-driver_urls = soup.find_all("a", class_="outline outline-offset-4 outline-brand-black group outline-0 focus-visible:outline-2")
+driver_urls = soup.find_all("a", class_="group focus-visible:outline-0")
+print(driver_urls)
 
 driver_links = []
 for driver in driver_urls:
@@ -32,8 +33,7 @@ for driver_link in driver_links:
     url = driver_link
     r = requests.get(url).text
     soup = BeautifulSoup(r, "lxml")
-    data = soup.find_all("div", class_="grid f1-grid grid-cols-1 tablet:grid-cols-2")[0]
-
+    data = soup.find("div", class_="grid f1-grid grid-cols-1 tablet:grid-cols-2")
     driver_names.append(data.h1.string)
     driver_numbers.append(data.find("p", class_="f1-heading tracking-normal text-fs-24px tablet:text-fs-42px leading-tight normal-case font-normal non-italic f1-heading__body font-formulaOne f1-utils-inline-image--loose text-greyDark").text)
     driver_flags.append(data.find("img", class_="f1-flag bg-brand-carbonBlack h-[32px] border border-greyLight rounded-xxs").get("src"))

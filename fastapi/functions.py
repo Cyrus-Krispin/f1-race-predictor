@@ -2,10 +2,11 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 
-endpoint = "https://api.openf1.org/v1/"
+endpoint = "http://ergast.com/api/f1/"
 
 def update_race_details():
-    r = requests.get(endpoint + "sessions?year=2024")
+    r = requests.get(endpoint + "2024.json")
+    #TODO: process json data
     data = r.json()
     df = pd.DataFrame(data)
     df.to_csv("./data/sessions.csv", index=False, header=True)
@@ -16,4 +17,4 @@ def update_driver_details():
     df = pd.DataFrame(data)
     df.to_csv("./data/drivers.csv", index=False, header=True)
 
-update_driver_details()
+update_race_details()

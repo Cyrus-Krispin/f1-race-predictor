@@ -1,11 +1,11 @@
-,constructorId,url,name,nationality
-0,alpine,http://en.wikipedia.org/wiki/Alpine_F1_Team,Alpine F1 Team,French
-1,aston_martin,http://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,Aston Martin,British
-2,ferrari,http://en.wikipedia.org/wiki/Scuderia_Ferrari,Ferrari,Italian
-3,haas,http://en.wikipedia.org/wiki/Haas_F1_Team,Haas F1 Team,American
-4,mclaren,http://en.wikipedia.org/wiki/McLaren,McLaren,British
-5,mercedes,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,Mercedes,German
-6,rb,http://en.wikipedia.org/wiki/RB_Formula_One_Team,RB F1 Team,Italian
-7,red_bull,http://en.wikipedia.org/wiki/Red_Bull_Racing,Red Bull,Austrian
-8,sauber,http://en.wikipedia.org/wiki/Sauber_Motorsport,Sauber,Swiss
-9,williams,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,Williams,British
+,constructorId,name,nationality
+0,alpine,Alpine F1 Team,French
+1,aston_martin,Aston Martin,British
+2,ferrari,Ferrari,Italian
+3,haas,Haas F1 Team,American
+4,mclaren,McLaren,British
+5,mercedes,Mercedes,German
+6,rb,RB F1 Team,Italian
+7,red_bull,Red Bull,Austrian
+8,sauber,Sauber,Swiss
+9,williams,Williams,British

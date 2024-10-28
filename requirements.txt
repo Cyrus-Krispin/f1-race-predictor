@@ -1,4 +1,0 @@
-pip install requests
-pip intall bs4
-pip install pandas
-pip install -U scikit-learn

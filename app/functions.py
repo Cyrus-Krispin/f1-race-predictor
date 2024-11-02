@@ -84,5 +84,3 @@ def update_all_data():
             df = df._append({"meeting_key": meeting_key, "race_name": race_name, "driver_number": driver_number, "driver_name": full_name, "practice_1": practice_1, "practice_2": practice_2, "practice_3": practice_3, "sprint_quali": sprint_quali, "sprint_race": sprint_race, "qualifying": qualifying, "race": race}, ignore_index=True)
     df.to_csv("data.csv", index=False)
     print("Data update process completed successfully")
-
-update_all_data()

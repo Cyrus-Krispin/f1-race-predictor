@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from functions import update_all
+from functions import update_all_data
 app = FastAPI()
 
 @app.get("/")
@@ -9,4 +9,4 @@ def health_check():
 
 @app.get("/update")
 def update():
-    update_all()
+    update_all_data()

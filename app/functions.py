@@ -1,17 +1,20 @@
 import pandas as pd
 import requests
+import time
 
 endpoint = "https://api.openf1.org/v1/"
 
 def get_meetings():
     print("Fetching meetings data")
-    response = requests.get(endpoint + "meetings")
-    if response.status_code == 200:
-        print("Meetings data fetched successfully")
-        return response.json()
-    else:
-        print(f"Failed to fetch meetings data: {response.status_code}")
-        response.raise_for_status()
+    for _ in range(3):
+        response = requests.get(endpoint + "meetings")
+        if response.status_code == 200:
+            print("Meetings data fetched successfully")
+            return response.json()
+        else:
+            print(f"Failed to fetch meetings data: {response.status_code}. Retrying...")
+            time.sleep(1)
+    response.raise_for_status()
 
 def update_all_data():
     print("Starting data update process")
@@ -24,22 +27,30 @@ def update_all_data():
             print(f"Skipping Pre-Season Testing meeting: {meeting_key} ({race_name})")
             continue
         print(f"Fetching sessions for meeting: {meeting_key} ({race_name})")
-        sessions_response = requests.get(endpoint + f"sessions?meeting_key={meeting_key}")
-        if sessions_response.status_code == 200:
-            sessions = sessions_response.json()
+        for _ in range(3):
+            sessions_response = requests.get(endpoint + f"sessions?meeting_key={meeting_key}")
+            if sessions_response.status_code == 200:
+                sessions = sessions_response.json()
+                break
+            else:
+                print(f"Failed to fetch sessions for meeting {meeting_key} ({race_name}): {sessions_response.status_code}. Retrying...")
+                time.sleep(1)
         else:
-            print(f"Failed to fetch sessions for meeting {meeting_key} ({race_name}): {sessions_response.status_code}")
             sessions_response.raise_for_status()
         
         drivers = set()
         for session in sessions:
             session_key = session["session_key"]
             print(f"Fetching drivers for session: {session_key} ({race_name})")
-            drivers_response = requests.get(endpoint + f"drivers?session_key={session_key}")
-            if drivers_response.status_code == 200:
-                session_drivers = drivers_response.json()
+            for _ in range(3):
+                drivers_response = requests.get(endpoint + f"drivers?session_key={session_key}")
+                if drivers_response.status_code == 200:
+                    session_drivers = drivers_response.json()
+                    break
+                else:
+                    print(f"Failed to fetch drivers for session {session_key} ({race_name}): {drivers_response.status_code}. Retrying...")
+                    time.sleep(1)
             else:
-                print(f"Failed to fetch drivers for session {session_key} ({race_name}): {drivers_response.status_code}")
                 drivers_response.raise_for_status()
             
             for driver in session_drivers:
@@ -58,11 +69,15 @@ def update_all_data():
             for session in sessions:
                 session_key = session["session_key"]
                 print(f"Fetching position for driver {driver_number} ({full_name}) in session: {session_key} ({race_name})")
-                position_response = requests.get(endpoint + f"position?session_key={session_key}&driver_number={driver_number}")
-                if position_response.status_code == 200:
-                    position = position_response.json()
+                for _ in range(3):
+                    position_response = requests.get(endpoint + f"position?session_key={session_key}&driver_number={driver_number}")
+                    if position_response.status_code == 200:
+                        position = position_response.json()
+                        break
+                    else:
+                        print(f"Failed to fetch position for driver {driver_number} ({full_name}) in session {session_key} ({race_name}): {position_response.status_code}. Retrying...")
+                        time.sleep(1)
                 else:
-                    print(f"Failed to fetch position for driver {driver_number} ({full_name}) in session {session_key} ({race_name}): {position_response.status_code}")
                     position_response.raise_for_status()
                 
                 if not position:

@@ -3,6 +3,8 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.model_selection import GridSearchCV
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
 from sklearn.metrics import mean_squared_error, r2_score, accuracy_score
@@ -17,7 +19,7 @@ y = data['race']
 
 X = pd.get_dummies(X, columns=['driver_number', 'race_name'])
 
-imputer = SimpleImputer(strategy='median')
+imputer = SimpleImputer(strategy='mean')
 X[['practice_1', 'practice_2', 'practice_3', 'sprint_quali', 'sprint_race', 'qualifying']] = imputer.fit_transform(X[['practice_1', 'practice_2', 'practice_3', 'sprint_quali', 'sprint_race', 'qualifying']])
 
 X['practice_avg'] = X[['practice_1', 'practice_2', 'practice_3']].mean(axis=1)
@@ -32,8 +34,7 @@ X_test = scaler.transform(X_test)
 #i want csv file with the current data the model is using X and y
 X.to_csv("X.csv", index=False)
 
-# Example: Tuning hyperparameters in MLPRegressor
-model = RandomForestClassifier(n_estimators=200, max_features='sqrt', max_depth=15, min_samples_split=10, min_samples_leaf=5, class_weight='balanced',random_state=42)
+model = RandomForestClassifier(class_weight='balanced', max_depth=4, max_features='sqrt', min_samples_leaf=13, min_samples_split=5, n_estimators=300, random_state=42)
 
 model.fit(X_train, y_train)
 
